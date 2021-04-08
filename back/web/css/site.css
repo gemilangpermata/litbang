@@ -1,0 +1,36 @@
+.navbar-nav>.user-menu .user-image {
+    margin-top: -8px !important;
+}
+
+.swal2-popup.swal2-toast .swal2-title {
+    margin: 0 .6em !important;
+}
+
+.help-block {
+    display: block;
+    width: 100%;
+    margin-top: .25rem;
+    font-size: 80%;
+}
+
+.help-block-error {
+    color: #dc3545;
+}
+
+.kv-grid-bs4 a.asc:after {
+    content: "\f0de" !important;
+    margin-left: .6em;
+}
+
+.kv-grid-bs4 a.desc:after {
+    content: "\f0dd" !important;
+    margin-left: .6em;
+}
+
+.table thead th {
+    vertical-align: middle !important;
+}
+
+.data-summary {
+    font-size: 14px;
+}
